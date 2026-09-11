@@ -13,11 +13,12 @@ h2{
 }
 
 inframe{
-   width: 560;
-   height: 315;
+   width: 100%;
+   max-width:560px;
+   height: 315px;
    display: block;
 margin: 20px auto ;
-border-radius: 10px;
+border-radius: 12px;
 
 
 }
